@@ -1,0 +1,2 @@
+ccxt==3.0.59
+python-dotenv~=1.0.1
